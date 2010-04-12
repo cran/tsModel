@@ -5,12 +5,12 @@ Imports: splines, stats, tlnise, MASS
 Suggests: gam, NMMAPSlite
 LazyLoad: yes
 Date: 2010-04-12
-Version: 0.5-3
+Version: 0.5-4
 Author: Roger D. Peng <rpeng@jhsph.edu>, with contributions from Aidan
         McDermott
 Maintainer: Roger D. Peng <rpeng@jhsph.edu>
 Description: Tools for specifying time series regression models
 License: GPL (>= 2)
-Packaged: 2010-04-12 15:06:27 UTC; rdpeng
+Packaged: 2012-03-21 13:17:05 UTC; rdpeng
 Repository: CRAN
-Date/Publication: 2010-04-12 18:23:59
+Date/Publication: 2012-03-21 15:21:19
