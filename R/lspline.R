@@ -1,5 +1,3 @@
-#' @importFrom splines splineDesign
-#' @importFrom stats quantile
 lspline <- function(x, df = NULL, knots = NULL) {
         x <- as.numeric(x)
         
